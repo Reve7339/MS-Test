@@ -245,3 +245,10 @@
 [10Dec2024 16:15:36.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3919ms or 78 ticks behind
 [10Dec2024 16:32:04.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reve lost connection: Disconnected
 [10Dec2024 16:32:04.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reve left the game
+[10Dec2024 17:15:31.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Dec2024 17:15:31.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 17:15:31.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 17:15:31.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Dec2024 17:15:32.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Dec2024 17:15:34.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[10Dec2024 17:15:34.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
