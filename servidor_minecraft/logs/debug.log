@@ -2703,3 +2703,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Dec2024 16:21:57.360] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$2
 [10Dec2024 16:21:57.364] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraftforge/event/entity/player/PlayerInteractEvent$1
 [10Dec2024 16:21:57.365] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraftforge/common/ForgeHooks$2
+[10Dec2024 16:24:22.781] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/BaseRailBlock$1
+[10Dec2024 16:24:24.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 16:24:24.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 16:29:24.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 16:29:24.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 16:32:04.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reve lost connection: Disconnected
+[10Dec2024 16:32:04.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reve left the game

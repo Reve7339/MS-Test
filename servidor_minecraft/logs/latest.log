@@ -243,3 +243,5 @@
 [10Dec2024 16:15:14.549] [Server thread/INFO] [Jade/]: Syncing config to Reve (0f995bdc-93f8-31ee-9d0f-97cd5be4e5d2)
 [10Dec2024 16:15:17.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3462ms or 69 ticks behind
 [10Dec2024 16:15:36.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3919ms or 78 ticks behind
+[10Dec2024 16:32:04.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reve lost connection: Disconnected
+[10Dec2024 16:32:04.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reve left the game
